@@ -221,3 +221,4 @@ __marimo__/
 *saved_models/
 *landscapes.zip
 lab4-transformers/data/*
+lab4-transformers/output/*
