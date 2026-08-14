@@ -222,3 +222,4 @@ __marimo__/
 *landscapes.zip
 lab4-transformers/data/*
 lab4-transformers/output/*
+lab4-transformers/assets/vit_cifar10_pretrained.pth
