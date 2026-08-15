@@ -4,13 +4,13 @@
 
 ## Estrutura
 
-| Lab | Tema | Framework |
-|-----|------|-----------|
-| `lab1` | Configuração do ambiente | PyTorch + TensorFlow |
-| `lab2` | Redes Recorrentes (RNN / LSTM) | PyTorch |
-| `lab3` | Autoencoders | TensorFlow / Keras |
-| `lab4` | Transformers | PyTorch (pt1) · TensorFlow/Keras (pt2) |
-| `lab5` | Redes Generativas Adversariais (GANs) | TensorFlow / Keras |
+| Lab | Tema |
+|-----|------|
+| `lab1` | Configuração do ambiente |
+| `lab2` | Redes Recorrentes (RNN / LSTM) |
+| `lab3` | Autoencoders |
+| `lab4` | Transformers |
+| `lab5` | Redes Generativas Adversariais (GANs) |
 
 ---
 
